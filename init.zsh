@@ -23,5 +23,5 @@ p6df::modules::loom::deps() {
 ######################################################################
 p6df::modules::loom::profile::mod() {
 
-  p6_return_words 'loom' "$"
+  p6_return_words 'loom' '$LOOM_API_KEY'
 }
