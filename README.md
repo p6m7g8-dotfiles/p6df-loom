@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-loom/init.zsh
 
 - `p6df::modules::loom::deps()`
-- `words loom $LOOM_API_KEY = p6df::modules::loom::profile::mod()`
+- `words loom = p6df::modules::loom::profile::mod()`
 
 ## Hierarchy
 

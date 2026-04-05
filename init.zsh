@@ -13,10 +13,10 @@ p6df::modules::loom::deps() {
 ######################################################################
 #<
 #
-# Function: words loom $LOOM_API_KEY = p6df::modules::loom::profile::mod()
+# Function: words loom = p6df::modules::loom::profile::mod()
 #
 #  Returns:
-#	words - loom $LOOM_API_KEY
+#	words - loom
 #
 #  Environment:	 LOOM_API_KEY
 #>
